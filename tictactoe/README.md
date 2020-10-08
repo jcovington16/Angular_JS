@@ -1,5 +1,7 @@
 # Tictactoe
 
+Followed along with Fireship to build a pretty responsive TicTacToe game and deployed it using Firebase. Pretty exciting learning this framework and how to deploy webapps. I always here to learn a different framework than angular, but I enjoyed it and I am starting somewhere. 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.4.
 
 ## Development server
